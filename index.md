@@ -1,6 +1,6 @@
 ## Welcome to VR Lab
 
-You can use the [editor on GitHub](https://github.com/qq1064068912/VRLab/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+理工VR实验室了解一下！我们实验室是个大家庭，巴拉巴拉巴拉爸爸了吧大大大大大大大大大大
 
 ### Achievement
 
@@ -26,10 +26,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Facilities
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qq1064068912/VRLab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Welcome
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
