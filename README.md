@@ -1,2 +1,0 @@
-# VRLab
-Welcome
